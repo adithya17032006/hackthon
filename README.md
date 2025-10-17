@@ -1,3 +1,3 @@
 # hackthon
-about hackthon of ieee
+About hackthon of ieee
 author Adithya
