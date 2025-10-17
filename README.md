@@ -1,4 +1,5 @@
 # hackthon
 About hackthon of IEEE
 <br>
-author Adithya
+author Adithya H S
+<br>
